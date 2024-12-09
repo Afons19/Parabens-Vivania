@@ -1,0 +1,18 @@
+body{
+  background:black;
+  overflow:hidden;
+  margin:0;
+}
+canvas{
+  background:#000;
+}
+
+section {
+    background-color: white;
+    padding: 15px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 500;
+    font-size: larger;
+    font-variant: small-caps;
+}
